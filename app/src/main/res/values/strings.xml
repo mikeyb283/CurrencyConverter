@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="hint">Currency to convert</string>
+    <string name="dollars_to_pounds">Dollars to pounds</string>
+    <string name="pounds_to_dollars">Pounds to dollars</string>
+    <string name="button_convert">Convert</string>
+</resources>
